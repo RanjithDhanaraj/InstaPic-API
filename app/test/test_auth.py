@@ -110,7 +110,7 @@ class TestAuthBlueprint(BaseTestCase):
             response = self.client.post(
                 '/auth/logout',
                 headers=dict(
-                    Authorization=json.loads(
+                    Authorization='Bearer ' + json.loads(
                         resp_login.data.decode()
                     )['Authorization']
                 )
@@ -148,7 +148,7 @@ class TestAuthBlueprint(BaseTestCase):
             response = self.client.post(
                 '/auth/logout',
                 headers=dict(
-                    Authorization=json.loads(
+                    Authorization='Bearer ' + json.loads(
                         resp_login.data.decode()
                     )['Authorization']
                 )

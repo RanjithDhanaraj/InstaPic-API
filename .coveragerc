@@ -1,0 +1,5 @@
+[run]
+omit =
+    manage.py
+    *app/test/*
+    add_to_db.py
