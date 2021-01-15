@@ -1,7 +1,7 @@
 # InstaPic-API
 RESTful API built with Flask (Python) for InstaPic web-app. 
 
-## Link - https://instapic-backend-api.herokuapp.com/
+### Link - https://instapic-backend-api.herokuapp.com/
 
 ## Terminal Commands
 
@@ -39,13 +39,13 @@ RESTful API built with Flask (Python) for InstaPic web-app.
 
 ## Acknowledgement
 	
-	Built using FLASK RESTX BOILER-PLATE WITH JWT by Greg Obinna.
+Built using FLASK RESTX BOILER-PLATE WITH JWT by Greg Obinna.
 
 
 ## Key Points
 
-	Coverage is 100%
-	Images stored as base64 instead of blobs since it might be messy.
-	User specific requests aren't implemented yet.
-	Lack of documentation.
+* Coverage is 100%
+* Images stored as base64 instead of blobs since it might be messy.
+* User specific requests aren't implemented yet.
+* Lack of documentation.
 	
