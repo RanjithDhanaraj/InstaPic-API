@@ -26,7 +26,8 @@ RESTful API built with Flask (Python) for InstaPic web-app.
 	
 ## Viewing the app
 	
-	 http://127.0.0.1:5000/   or
+	 http://127.0.0.1:5000/  
+or
 	 localhost:5000/
 	 
 ## Postman Instructions
