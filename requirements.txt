@@ -1,8 +1,5 @@
 alabaster==0.7.12
 alembic==1.4.3
-anaconda-client==1.7.2
-anaconda-project==0.8.3
-aniso8601 @ file:///tmp/build/80754af9/aniso8601_1606772819155/work
 appdirs==1.4.4
 argh==0.26.2
 argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
