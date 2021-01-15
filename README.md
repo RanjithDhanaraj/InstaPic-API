@@ -42,7 +42,7 @@ RESTful API built with Flask (Python) for InstaPic web-app.
 
 ## Acknowledgement
 	
-Built using FLASK RESTX BOILER-PLATE WITH JWT by Greg Obinna.
+Built using [FLASK RESTX BOILER-PLATE WITH JWT](https://github.com/cosmic-byte/flask-restplus-boilerplate) by [Greg Obinna](https://github.com/cosmic-byte).
 
 
 ## Key Points
